@@ -1,0 +1,1 @@
+Document folder which contains all documents used for the siscol project.
